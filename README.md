@@ -1,5 +1,6 @@
  
 🍕 Pizza Sales Analysis | Power BI & SQL
+
 #Summary:
    Built an interactive sales dashboard for a pizza chain using SQL and Power BI to analyze revenue, order patterns, and product performance.
 
